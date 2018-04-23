@@ -5,4 +5,5 @@ Features
 -Home screen shortcuts for contacts
 -Notable type Features
 -Large fonts
--
+-Limited color scheme
+-Friendly, lower-tech aesthetic
