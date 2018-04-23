@@ -8,3 +8,9 @@ Features
 -Limited color scheme
 -Friendly, lower-tech aesthetic
 -Medication tracker
+-Easy to access pictures
+-Magnifier
+-Easy to navigate directionally(red shadow to indicate previous direction?)
+-Very clear whether on speakerphone or not
+-Words over symbols(Hang up vs red symbol)
+-Method for unlocking other than pin number
