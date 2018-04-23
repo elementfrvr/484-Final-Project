@@ -7,3 +7,4 @@ Features
 -Large fonts
 -Limited color scheme
 -Friendly, lower-tech aesthetic
+-Medication tracker
