@@ -14,4 +14,6 @@ Features
 -Very clear whether on speakerphone or not
 -Words over symbols(Hang up vs red symbol)
 -Method for unlocking other than pin number
--
+-Easy access to flashight (Possible integration with magnifier?)
+-Reminder to charge with arrow indicating where the port is and instructions
+-Camera app includes send to... button
