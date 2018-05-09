@@ -17,3 +17,5 @@ Features
 -Easy access to flashlight (Possible integration with magnifier?)
 -Reminder to charge with arrow indicating where the port is and instructions
 -Camera app includes send to... button
+
+Weak signal, poor signal, good signal, excellent signal
